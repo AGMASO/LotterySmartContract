@@ -33,7 +33,10 @@
     "@chainlink/test-helpers": "^0.0.7-alpha",
     "@chainlink/token": "^1.1.0",
     "@openzeppelin/contracts": "^4.5.0",
-    "babel-eslint": "^10.1.0"
+    "babel-eslint": "^10.1.0",
+    "fs": "^0.0.1-security",
+    "moralis-v1": "^1.11.0",
+    "react-moralis": "^1.4.2"
   },
   "mocha": {
     "timeout": 10000000
